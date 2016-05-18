@@ -4,6 +4,8 @@
 
 # Meetups
 
+[![Join the chat at https://gitter.im/FocusMeetups/meetups](https://badges.gitter.im/FocusMeetups/meetups.svg)](https://gitter.im/FocusMeetups/meetups?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Meetups internos da Focusnetworks
 
 ## Propósito e Organização
