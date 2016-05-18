@@ -12,7 +12,7 @@ Os Meetups da Focusnetworks, têm como objetivo disseminar o conhecimento do Gru
 
 Já que rede social de desenvolvedor é o GitHub, por que não centralizar a organização dos nossos Meetups, por aqui?
 
-Possuímos 3 repositórios que nos possibilitarão ter um histórico dos encontros e um local para guardar os materiais das
+Possuímos 4 repositórios que nos possibilitarão ter um histórico dos encontros e um local para guardar os materiais das
 palestras.
 
 **Repositório Meetups:** Nesse repositório abriremos issues de cada  Meetup apresentado para que possamos descrever a pauta da
