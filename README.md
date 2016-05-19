@@ -34,6 +34,8 @@ seja uma discussão que gera conhecimento importante para o Grupo.
 * Facilmente organizável
 * A busca funciona muito bem
 
+## Conteúdos dos Meetups
+
 ## Código de Conduta
 
 Como qualquer grupo, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
