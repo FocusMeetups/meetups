@@ -38,6 +38,9 @@ seja uma discussão que gera conhecimento importante para o Grupo.
 
 ## Conteúdos dos Meetups
 
+### 2016
+* :calendar: [Maio](https://github.com/FocusMeetups/meetups/blob/master/2016/maio.md)
+
 ## Código de Conduta
 
 Como qualquer grupo, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
