@@ -40,6 +40,7 @@ seja uma discussão que gera conhecimento importante para o Grupo.
 
 ### 2016
 * :calendar: [Maio](https://github.com/FocusMeetups/meetups/blob/master/2016/maio.md)
+* :calendar: [Junho](https://github.com/FocusMeetups/meetups/blob/master/2016/junho.md)
 
 ## Código de Conduta
 
