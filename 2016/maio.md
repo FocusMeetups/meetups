@@ -1,2 +1,2 @@
 ### dia 19
-- :books: - [Nome do Palestrante - Nome da Palestra ](link)
+- :books: - [Henrique Liberato - BaaS e Firebase ](http://pt.slideshare.net/henriqueliberato/baas-e-firebase)
