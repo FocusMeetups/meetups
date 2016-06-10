@@ -1,2 +1,2 @@
 ### dia 9
-- :books: - [Nome do Palestrante - Nome da Palestra ](link)
+- :books: - [Danilo Vaz - Organização CSS](http://slides.com/vazdanilo/organizacao-css)
